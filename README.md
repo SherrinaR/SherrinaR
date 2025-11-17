@@ -10,8 +10,6 @@ Outside of software development, I like
 ## 🛠️ Technologies & Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,express,react,python,vite,ts,firebase,git,figma,nodejs,materialui,nextjs,tailwind,postgres)](https://skillicons.dev)
 
-## 📊 Statistics
-[![Sherrina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherrinar&show_icons=true&theme=radical)](https://github.com/sherrinar/github-readme-stats)
 
 <!--
 **SherrinaR/SherrinaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
